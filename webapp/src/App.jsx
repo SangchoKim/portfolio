@@ -1,4 +1,4 @@
-import React from 'react';
+/** @jsxImportSource @emotion/react */
 import { Global, css } from '@emotion/react';
 import { Route, Switch } from 'react-router-dom';
 import AppLayout from './components/AppLayout';
